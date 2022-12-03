@@ -12,4 +12,4 @@ Step 2: Creating a dbt project and connecting it to Snowflake.
 
 Step 3: Implementing three dbt models on three Airbnb data sets. Then dbt operations - Materializations, Seeds and Sources, Snapshots, Tests, Macros and Documentation were performed.
 
-Step 4: And finally, a BI dashboard was set up using Snowflake and Apache Preset.
+Step 4: And finally, a BI dashboard was set up using Snowflake and Apache Preset to visulaize insights.
